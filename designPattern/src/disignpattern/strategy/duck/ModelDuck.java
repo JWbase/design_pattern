@@ -1,4 +1,4 @@
-package disignpattern.strategy;
+package disignpattern.strategy.duck;
 
 public class ModelDuck extends Duck {
     public ModelDuck() {
